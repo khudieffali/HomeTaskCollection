@@ -1,0 +1,15 @@
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\bin\Debug\net6.0\HomeTaskCollection.exe
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\bin\Debug\net6.0\HomeTaskCollection.deps.json
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\bin\Debug\net6.0\HomeTaskCollection.runtimeconfig.json
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\bin\Debug\net6.0\HomeTaskCollection.dll
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\bin\Debug\net6.0\HomeTaskCollection.pdb
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\HomeTaskCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\HomeTaskCollection.AssemblyInfoInputs.cache
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\HomeTaskCollection.AssemblyInfo.cs
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\HomeTaskCollection.csproj.CoreCompileInputs.cache
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\HomeTaskCollection.sourcelink.json
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\HomeTaskCollection.dll
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\refint\HomeTaskCollection.dll
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\HomeTaskCollection.pdb
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\HomeTaskCollection.genruntimeconfig.cache
+D:\Praktikant\GarageTask\HomeTaskCollection\HomeTaskCollection\obj\Debug\net6.0\ref\HomeTaskCollection.dll

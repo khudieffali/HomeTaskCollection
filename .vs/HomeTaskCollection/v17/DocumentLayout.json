@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\HomeTaskCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148612E7-44D7-446A-8D4B-E5DB9517051E}|HomeTaskCollection\\HomeTaskCollection.csproj|d:\\praktikant\\garagetask\\hometaskcollection\\hometaskcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148612E7-44D7-446A-8D4B-E5DB9517051E}|HomeTaskCollection\\HomeTaskCollection.csproj|solutionrelative:hometaskcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148612E7-44D7-446A-8D4B-E5DB9517051E}|HomeTaskCollection\\HomeTaskCollection.csproj|d:\\praktikant\\garagetask\\hometaskcollection\\hometaskcollection\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148612E7-44D7-446A-8D4B-E5DB9517051E}|HomeTaskCollection\\HomeTaskCollection.csproj|solutionrelative:hometaskcollection\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskCollection\\HomeTaskCollection\\ArrayList.cs",
+              "RelativeDocumentMoniker": "HomeTaskCollection\\ArrayList.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskCollection\\HomeTaskCollection\\ArrayList.cs",
+              "RelativeToolTip": "HomeTaskCollection\\ArrayList.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:43:51.841Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskCollection\\HomeTaskCollection\\Program.cs",
+              "RelativeDocumentMoniker": "HomeTaskCollection\\Program.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskCollection\\HomeTaskCollection\\Program.cs",
+              "RelativeToolTip": "HomeTaskCollection\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA0wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:34:22.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
